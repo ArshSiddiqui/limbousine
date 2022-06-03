@@ -14,11 +14,17 @@ function readTextFile(file, callback) {
 }
 
 console.log("-------------------------------");
-readTextFile("https://raw.githubusercontent.com/ArshSiddiqui/TheSunNeverSetsOnTheAmericanMilitaryBase/main/AmericanBases.json", function(text) {
+readTextFile("https://raw.githubusercontent.com/ArshSiddiqui/limbousine/main/American-Ghost-Towns.geojson", function(text) {
 	console.log("inside");
 	var data = JSON.parse(text);
 	console.log(text);
-	for (let i = 0; i < 175; i++) {
-	
-	}
+	console.log(text.features);
 })
+
+navigator.geolocation.getCurrentPosition(function(position) {
+	let lat = position.coords.latitude;
+	let lng = position.coords.longitude;
+	
+	console.log(lat);
+	console.log(lng);
+});
