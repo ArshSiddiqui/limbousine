@@ -1,7 +1,5 @@
 //main.js
 
-
-
 function readTextFile(file, callback) {
 	var rawFile = new XMLHttpRequest();
 	rawFile.overrideMimeType("application/json");
@@ -26,10 +24,10 @@ readTextFile("https://raw.githubusercontent.com/ArshSiddiqui/limbousine/main/Gho
 	const lats = [];
 	const longs = [];
 	//const distances = [];
-	console.log(data[0].name);
+	//console.log(data[0].name);
 	for (let i = 0; i < 128; i++) {
 		
-		console.log(data[i].name);
+		//console.log(data[i].name);
 		names.push(data[i].name);
 		lats.push(data[i].latitude);
 		longs.push(data[i].longitude);
@@ -64,13 +62,35 @@ function determineDistances(names, lats, longs) {
 		
 		let minSpot = findSmallest(distances);
 		
-		console.log("Nearest town: " + names[minSpot]);
+		console.log(minSpot + " Nearest town: " + names[minSpot]);
+		console.log(lats[minSpot], longs[minSpot]);
+		const block = document.createElement("p");
+		const node = document.createTextNode("Nearest Ghost Town to you: " + names[minSpot]);
+		block.appendChild(node);
+		const elem = document.getElementById("nearestTown");
+		elem.appendChild(block);
+		
+		const API_KEY = 'kjbMVWZf3yBaJfQVITmBiXdeyHj6sUjn';
+		const APPLICATION_NAME = 'My Application';
+		const APPLICATION_VERSION = '1.0';
+		 
+		tt.setProductInfo(APPLICATION_NAME, APPLICATION_VERSION);
+		
+		const GOLDEN_GATE_BRIDGE = {lng: longs[minSpot], lat: lats[minSpot]};
+ 
+		var map = tt.map({
+			key: API_KEY,
+			container: 'map',
+			center: GOLDEN_GATE_BRIDGE,
+			zoom: 12
+		});
+
 	})
 	
 }
 
 function findSmallest(distances) {
-	console.log(distances);
+	//console.log(distances);
 	let smallestPoint = 0;
 	for (let x = 0; x < distances.length; x++) {
 		if (distances[x] < distances[smallestPoint]) {
