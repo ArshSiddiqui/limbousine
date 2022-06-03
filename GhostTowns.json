@@ -1,1 +1,1026 @@
-{"database": "dh", "table": "ghost-towns/American-Ghost-Towns", "is_view": false, "human_description_en": "", "rows": [[1, "Adamson, OK", -95.546944, 34.923889, "Wikipedia (http://en.wikipedia.org/wiki/Adamson,_Oklahoma)", null], [2, "Alluwe, OK", -95.487222, 36.610278, "Wikipedia (http://en.wikipedia.org/wiki/Alluwe,_Oklahoma)", null], [3, "Amboy, CA ", -115.745302, 34.557167, "Wikipedia (http://en.wikipedia.org/wiki/Amboy,_California)\n\nWikipedia Commons / Alienburrito (http://en.wikipedia.org/wiki/User:Alienburrito)", "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/AmboySchool.jpg/800px-AmboySchool.jpg"], [4, "Animas Forks, CO", -107.56871000000001, 37.930549, "Wikipedia (http://en.wikipedia.org/wiki/Animas_Forks,_Colorado)\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/en/5/5c/Animas18.jpg"], [5, "Ardmore, SD", -103.65519, 43.020321, "Wikipedia (http://en.wikipedia.org/wiki/Ardmore,_South_Dakota)", null], [6, "Arlington, Mo", -91.971111, 37.920278, "Wikipedia (http://en.wikipedia.org/wiki/Arlington,_Missouri)", null], [7, "Arcola, AL", -87.783326, 32.567114000000004, "Wikipedia (http://en.wikipedia.org/wiki/Arcola,_Alabama)", null], [8, "Ashcroft, CO", -106.79777800000001, 39.054444000000004, "Wikipedia (http://en.wikipedia.org/wiki/Ashcroft,_Colorado)\n\n\nWikipedia Commons / John Holm (http://www.flickr.com/people/29385617@N00)", "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ashcroft_CO_-_houses.jpg/800px-Ashcroft_CO_-_houses.jpg"], [9, "Bannack, MT", -112.99655200000001, 45.161386, "Wikipedia (http://en.wikipedia.org/wiki/Bannack,_MT)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bannack.jpg/800px-Bannack.jpg"], [10, "Batsto Village, NJ", -74.64853199999999, 39.642979, "Wikipedia (http://en.wikipedia.org/wiki/Batsto_Village,_New_Jersey)", null], [11, "Bellefonte, AL", -85.94420500000001, 34.711844, "Wikipedia (http://en.wikipedia.org/wiki/Bellefonte,_Alabama)", null], [12, "Benjaminville, IL", -88.806111, 40.4765, "Wikipedia (http://en.wikipedia.org/wiki/Benjaminville,_Illinois)", null], [13, "Berlin, NV", -117.607222, 38.882222, "Wikipedia (http://en.wikipedia.org/wiki/Berlin,_Nevada)\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/8/87/Berlin_Ghost_Town.jpg"], [14, "Bodie, CA", -119.004601, 38.214149, "Wikipedia (http://en.wikipedia.org/wiki/Bodie,_California)\n\nWikipedia Commons/ Public Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bodie_ghost_town_edit1.jpg/800px-Bodie_ghost_town_edit1.jpg"], [15, "Bisbee, AZ", -109.91413600000001, 31.44255, "Wikipedia (http://en.wikipedia.org/wiki/Bisbee,_AZ)\n\nWikipedia Commons/Public Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bisbee_1916.jpg/799px-Bisbee_1916.jpg"], [16, "Black Jack, KS", -95.129542, 38.767936999999996, "Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Black_Jack#Town_of_Black_Jack)", null], [17, "Blue Heron, KY", -84.547919, 36.670402, "Wikipedia (http://en.wikipedia.org/wiki/Blue_Heron,_Kentucky)\n\n\n\n\nWikipedia Commons / Brian Stansberry (http://commons.wikimedia.org/wiki/User:Bms4880)", "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blue-heron-tipple-ky1.jpg/800px-Blue-heron-tipple-ky1.jpg"], [18, "Brewster, FL", -81.977663, 27.754513, "Wikipedia (http://en.wikipedia.org/wiki/Brewster,_Florida)", null], [19, "Brinkman, OK", -99.515118, 35.008114, "Wikipedia (http://en.wikipedia.org/wiki/Brinkman,_Oklahoma)", null], [20, "Brunswick Town, NC", -77.94658199999999, 34.039823, "Wikipedia (http://en.wikipedia.org/wiki/Brunswick_Town,_North_Carolina)", null], [21, "Burke, ID", -115.81765700000001, 47.520708, "Wikipedia (http://en.wikipedia.org/wiki/Burke,_Idaho)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BurkeIdaho1890.JPG/800px-BurkeIdaho1890.JPG"], [22, "Bushong, KS", -96.257778, 38.642943, "Wikipedia (http://en.wikipedia.org/wiki/Bushong,_Kansas)", null], [23, "Byrnesville, PA", -76.339196, 40.795982, "Wikipedia (http://en.wikipedia.org/wiki/Byrnesville,_Pennsylvania)", null], [24, "Cades Cove, TN", -83.817616, 35.607627, "Wikipedia (http://en.wikipedia.org/wiki/Cades_Cove)\n\n\n\nCheck out the entire cleared area for other remains of Cades Cove.\n\n\n\nWikipedia Commons / Billy Hathorn (http://commons.wikimedia.org/wiki/User:Billy_Hathorn)", "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Methodist_Church_at_Cades_Cove_IMG_4969.JPG/800px-Methodist_Church_at_Cades_Cove_IMG_4969.JPG"], [25, "Cahaba, AL", -87.099615, 32.318867, "Wikipedia (http://en.wikipedia.org/wiki/Cahaba,_Alabama)", null], [26, "Caribou, CO", -105.577251, 39.979578000000004, "Wikipedia (http://en.wikipedia.org/wiki/Caribou,_Colorado)\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)", "http://upload.wikimedia.org/wikipedia/en/f/f4/CaribouCO-2005.jpg"], [27, "Cataloochee, NC", -83.080051, 35.64047, "Wikipedia (http://en.wikipedia.org/wiki/Cataloochee_(Great_Smoky_Mountains)\u03be", null], [28, "Centralia. PA", -76.341667, 40.803333, "Wikipedia (http://en.wikipedia.org/wiki/Centralia,_Pennsylvania)", null], [29, "Champoeg, OR", -122.891908, 45.24872, "Wikipedia (http://en.wikipedia.org/wiki/Champoeg,_Oregon)\n\nWikipedia Commons / M.O. Stevens (http://commons.wikimedia.org/wiki/User:Aboutmovies)", "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Champoeg_State_Park_museum.JPG/800px-Champoeg_State_Park_museum.JPG"], [30, "Charbonneau, ND", -103.76329399999999, 47.852515000000004, "Wikipedia (http://en.wikipedia.org/wiki/Charbonneau,_North_Dakota)", null], [31, "Claiborne, AL", -87.51284100000001, 31.544766, "Wikipedia (http://en.wikipedia.org/wiki/Claiborne,_Alabama)", null], [32, "Clairemont, TX", -100.753233, 33.167494, "Wikipedia (http://en.wikipedia.org/wiki/Clairemont,_Texas)\n\n\nZoom in on the road to Street View to see this jail.\n\n\nWikipedia Commons / CletusDitto (http://commons.wikimedia.org/w/index.php?title=User:CletusDitto&action=edit&redlink=1)", "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Clairemont_Texas_Abandoned_Jail.jpg/800px-Clairemont_Texas_Abandoned_Jail.jpg"], [33, "Council, AK", -163.676389, 64.895, "Wikipedia (http://en.wikipedia.org/wiki/Council,_Alaska)", null], [34, "Creelsboro, KY", -85.19779399999999, 36.885102, "Wikipedia (http://en.wikipedia.org/wiki/Creelsboro,_Kentucky)\u03be\n\n\n\nWikipedia Commons / Public Domain", "http://upload.wikimedia.org/wikipedia/en/thumb/a/af/Creelsboro.jpg/800px-Creelsboro.jpg"], [35, "Dale, MN", -96.219833, 46.905282, "Wikipedia (http://en.wikipedia.org/wiki/Dale,_Minnesota)", null], [36, "Dawson, NM", -104.77498100000001, 36.664443, "Wikipedia (http://en.wikipedia.org/wiki/Dawson,_New_Mexico)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/3/37/Dawson%2C_NM%2C_%281916%29_Main_Street%2C.jpg"], [37, "Devonia, TN (Moore's Camp)", -84.38555600000001, 36.148056, "Wikipedia (http://en.wikipedia.org/wiki/Devonia,_Tennessee)", null], [38, "Donnan, IA", -91.878056, 42.896111, "Wikipedia (http://en.wikipedia.org/wiki/Donnan,_Iowa)", null], [39, "Dorchester, SC", -80.169722, 32.948056, "Wikipedia (http://en.wikipedia.org/wiki/Dorchester,_South_Carolina)", null], [40, "Drawbridge, CA", -121.974002, 37.465751000000004, "Wikipedia (http://en.wikipedia.org/wiki/Drawbridge,_California)\n\nWikipedia Commons / William Ward (http://flickr.com/photos/23501684@N00)", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Crossing_the_Bay_6.jpg/800px-Crossing_the_Bay_6.jpg"], [41, "Dyersville, CO", -105.983903, 39.420365000000004, "Wikipedia (http://en.wikipedia.org/wiki/Dyersville,_Colorado)\n\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)", "http://upload.wikimedia.org/wikipedia/commons/6/67/Dyerville1.jpg"], [42, "Eagle Mountain, CA", -115.48166699999999, 33.854444, "Wikipedia (http://en.wikipedia.org/wiki/Eagle_Mountain,_California)", null], [43, "Eckley Miners' Village, PA", -75.862778, 40.993333, "Wikipedia (http://en.wikipedia.org/wiki/Eckley_Miners%27_Village)", null], [44, "Elko Tract, VA", -77.237964, 37.487016, "Wikiipedia (http://en.wikipedia.org/wiki/Elko_Tract)", null], [45, "Elkport, IA", -91.27555600000001, 42.741111, "Wikipedia (http://en.wikipedia.org/wiki/Elkport,_Iowa)", null], [46, "Estacado, TX", -101.562037, 33.750677, "Wikipedia (http://en.wikipedia.org/wiki/Estacado,_Texas)", null], [47, "Eureka, CO", -107.565148, 37.880066, "Wikipedia (http://en.wikipedia.org/wiki/Eureka,_Colorado)\n\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)", "http://upload.wikimedia.org/wikipedia/commons/3/37/EurekaCO.jpg"], [48, "Fallis, OK", -97.121667, 35.749444, "Wikipedia (http://en.wikipedia.org/wiki/Fallis,_Oklahoma)", null], [49, "Fayette, MI", -86.668696, 45.718256, "Wikipedia (http://en.wikipedia.org/wiki/Fayette_Historic_State_Park)", null], [50, "Feltville, NJ", -74.386944, 40.681389, "Wikipedia (http://en.wikipedia.org/wiki/Feltville_Historic_District)", null], [51, "Flamingo, FL", -80.92676800000001, 25.139632000000002, "Wikipedia (http://en.wikipedia.org/wiki/Flamingo,_Florida)", null], [52, "French Azilum, PA", -76.318, 41.736000000000004, "Wikipedia (http://en.wikipedia.org/wiki/French_Azilum)", null], [53, "Fricks Locks, PA", -75.596591, 40.223075, "Wikipedia (http://en.wikipedia.org/wiki/Frick%27s_Lock,_Pennsylvania)", null], [54, "Garlock, CA", -117.78851200000001, 35.401618, "Wikipedia (http://en.wikipedia.org/wiki/Garlock,_California)", null], [55, "Griggsville Landing, IL", -90.6475, 39.696944, "Wikipedia (http://en.wikipedia.org/wiki/Griggsville_Landing,_Illinois)", null], [56, "Gold Point, NV", -117.36528, 37.353819, "Wikipedia (http://en.wikipedia.org/wiki/Gold_Point,_Nevada)\n\n\nWikipedia Commons / Finetooth (http://commons.wikimedia.org/wiki/User:Finetooth)", "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gold_point_street.jpg/800px-Gold_point_street.jpg"], [57, "Greenhorn, OR", -118.49666699999999, 44.708611, "Wikipedia (http://en.wikipedia.org/wiki/Greenhorn,_Oregon)\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Greenhorn_7.JPG/800px-Greenhorn_7.JPG"], [58, "Grafton, UT", -113.08156699999999, 37.16752, "Wikipedia (http://en.wikipedia.org/wiki/Grafton,_Utah)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grafton_UT_-_schoolhouse.JPG/800px-Grafton_UT_-_schoolhouse.JPG"], [59, "Hamburg, MO", -90.731667, 38.669722, "Wikipedia (http://en.wikipedia.org/wiki/Hamburg,_Missouri)", null], [60, "Hampton Springs, FL", -83.66250500000001, 30.081468, "Wikipedia (http://en.wikipedia.org/wiki/Hampton_Springs,_Florida)\n\n\n\nWikipedia Commons / Ebyabe (http://commons.wikimedia.org/wiki/User:Ebyabe)", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hampton_Springs_FL_hotel03.jpg/800px-Hampton_Springs_FL_hotel03.jpg"], [61, "Hindostan Falls", -86.85030400000001, 38.624099, "Wikipedia (http://en.wikipedia.org/wiki/Hindostan_Falls,_Indiana)", null], [62, "Holmesville, MS", -90.308611, 31.203611, "Wikipedia (http://en.wikipedia.org/wiki/Holmesville,_Mississippi)", null], [63, "Horse Heaven, OR", -120.507222, 44.715556, "Wikipedia (http://en.wikipedia.org/wiki/Horse_Heaven,_Oregon)", null], [64, "Huot, MN", -96.423333, 47.865278, "Wikipedia (http://en.wikipedia.org/wiki/Huot,_Minnesota)", null], [65, "Independence, CO", -106.605278, 39.106389, "Wikipedia\n\nWikipedia Commons / Jeffrey Beall (http://commons.wikimedia.org/wiki/User:Denverjeffrey)", "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Independence%2C_Colorado.JPG/800px-Independence%2C_Colorado.JPG"], [66, "Indian Key, FL", -80.677285, 24.878845000000002, "Wikipedia (http://en.wikipedia.org/wiki/Indian_Key,_Florida)", null], [67, "Jamestown, VA", -76.77429000000001, 37.207688, "Wikipedia (http://en.wikipedia.org/wiki/Jamestown,_Virginia)", null], [68, "Jerome, AZ", -112.113772, 34.748911, "Wikipedia (http://en.wikipedia.org/wiki/Jerome,_AZ)\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/b/bc/Connor_hotel%2C_1899.jpg"], [69, "Kalapana, HI", -154.985322, 19.350607, "Wikipedia (http://en.wikipedia.org/wiki/Kalapana,_Hawaii)", null], [70, "Kapoho, HI", -154.846033, 19.502733, "Wikipedia (http://en.wikipedia.org/wiki/Kapoho,_Hawaii)", null], [71, "Kaskaskia, IL", -89.916467, 37.921395000000004, "Wikipedia (http://en.wikipedia.org/wiki/Kaskaskia,_Illinois)", null], [72, "Kelso, CA", -115.64945, 35.014726, "Wikipedia (http://en.wikipedia.org/wiki/Kelso,_California)\n\nWikipedia Commons / Pierre Camateros (http://commons.wikimedia.org/wiki/User:PieCam)", "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kelso_Post_Office.jpg/800px-Kelso_Post_Office.jpg"], [73, "Kennecott, AK", -142.888611, 61.486111, "Wikipedia (http://en.wikipedia.org/wiki/Kennicott,_Alaska)\n\n\n\n\nWikipedia Commons / Sewtex (http://en.wikipedia.org/wiki/User:Sewtex)", "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kennicott8.jpg/250px-Kennicott8.jpg"], [74, "Klondyke, AZ", -110.332222, 32.835278, "Wikipedia (http://en.wikipedia.org/wiki/Klondyke,_Arizona)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/en/8/87/Klondyke_Arizona_General_Store_1910.jpg"], [75, "Laquin, PA", -76.65083299999999, 41.632222, "Wikipedia (http://en.wikipedia.org/wiki/Laquin,_Pennsylvania)", null], [76, "Leadfield, CA", -117.060608, 36.848366999999996, "Wikipedia (http://en.wikipedia.org/wiki/Leadfield,_California)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/b/b4/Leadfield_Building_1.jpg"], [77, "Llano Del Rio", -117.827083, 34.506471999999995, "Wikipedia (http://en.wikipedia.org/wiki/Llano_Del_Rio)\n\nWikipedia Commons / Binksternet (http://commons.wikimedia.org/wiki/User:Binksternet)", "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/LlanoDelRio1.jpg/800px-LlanoDelRio1.jpg"], [78, "Lobo, TX", -104.753056, 30.814166999999998, "Wikipedia (http://en.wikipedia.org/wiki/Lobo,_Texas)", null], [79, "Long Point, MA", -70.16879, 42.032954, "Wikipedia (http://en.wikipedia.org/wiki/Long_Point_(Cape_Cod)\u03be", null], [80, "Los Ojuelos, TX", -98.99638900000001, 27.403056, "Wikipedia (http://en.wikipedia.org/wiki/Los_Ojuelos,_Texas)", null], [81, "Love Canal, NY", -78.94895600000001, 43.080518, "Wikipedia (http://en.wikipedia.org/wiki/Love_Canal)", null], [82, "Marysville, MT", -112.300278, 46.750556, "Wikipedia (http://en.wikipedia.org/wiki/Marysville,_Montana)\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CityMeatMarketMarysvilleMontana-Haynes1889.jpg/786px-CityMeatMarketMarysvilleMontana-Haynes1889.jpg"], [83, "Medicine Mound, TX", -99.59439, 34.187391, "Wikipedia (http://en.wikipedia.org/wiki/Medicine_Mound,_Texas)\n\nWikipedia Commons / M Lenhardt (http://www.flickr.com/people/30514188@N05)", "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Medicine_Mound_gas_station.jpg/800px-Medicine_Mound_gas_station.jpg"], [84, "Mesquite, TX", -101.630278, 32.870278000000006, "Wikipedia (http://en.wikipedia.org/wiki/Mesquite,_Texas_(Borden_County)\u03be\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mesquite_School_Borden_County_Texas_2010.jpg/800px-Mesquite_School_Borden_County_Texas_2010.jpg"], [85, "Midland, CA", -114.802222, 33.861111, "Wikipedia (http://en.wikipedia.org/wiki/Midland,_California)", null], [86, "Miner's Delight, WY", -108.68154799999999, 42.533109, "Wikipedia (http://en.wikipedia.org/wiki/Miner%27s_Delight,_Wyoming)\n\n\nPublic Domain", "http://upload.wikimedia.org/wikipedia/commons/4/46/Miners_delight_cabin.jpg"], [87, "Nevadaville, CO", -105.53183999999999, 39.793925, "Wikipedia (http://en.wikipedia.org/wiki/Nevadaville,_Colorado)", null], [88, "New Idria, CA", -120.672905, 36.415662, "Wikipedia (http://en.wikipedia.org/wiki/New_Idria,_California)\n\n\nWikipedia Commons / Jef Poskanzer (http://flickr.com/photos/37996593020@N01)", "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Idria_grounds.jpg/800px-New_Idria_grounds.jpg"], [89, "Nonesuch Mine, MI", -89.619722, 46.755278000000004, "Wikipedia (http://en.wikipedia.org/wiki/Nonesuch_Mine)", null], [90, "Okaton, SD", -100.891805, 43.886101000000004, "Wikipedia (http://en.wikipedia.org/wiki/Okaton,_SD)", null], [91, "Palmetto, NV", -117.695365, 37.444545, "Wikipedia (http://en.wikipedia.org/wiki/Palmetto,_Nevada)\n\n\nCheck out the ruins in Street View by zooming in on the road.\n\n\nWikipedia Commons / Mark Holloway (http://www.flickr.com/people/27000124@N05)", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Palmetto%2C_Nevada_ghost_town.jpg/798px-Palmetto%2C_Nevada_ghost_town.jpg"], [92, "Panamint City", -117.09501000000002, 36.117931, "Wikipedia (http://en.wikipedia.org/wiki/Panamint_City,_California)", null], [93, "Paradise, KY", -86.983611, 37.268056, "Wikipedia (http://en.wikipedia.org/wiki/Paradise,_Kentucky)", null], [94, "Perky, FL", -81.572637, 24.650024, "Wikipedia (http://en.wikipedia.org/wiki/Perky,_Florida)\n\n\n\nWikipedia Commons / Marc Averette (http://en.wikipedia.org/wiki/User:Averette)", "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sugarloafkeybattower.jpg/450px-Sugarloafkeybattower.jpg"], [95, "Picher, OK", -94.832778, 36.982778, "wikipedia (http://en.wikipedia.org/wiki/Picher,_Oklahoma)", null], [96, "Piedmont, WY", -110.62586499999999, 41.217273999999996, "Wikipedia (http://en.wikipedia.org/wiki/Piedmont,_Wyoming)", null], [97, "Pithole, PA", -79.580262, 41.522748, "Wikipedia (http://en.wikipedia.org/wiki/Pithole,_Pennsylvania)", null], [98, "Port Wakefield, AK", -153.054743, 58.049466, "Wikipedia (http://en.wikipedia.org/wiki/Port_Wakefield,_Alaska)", null], [99, "Portsmouth, NC", -76.063889, 35.069722, "Wikipedia (http://en.wikipedia.org/wiki/Portsmouth,_North_Carolina)", null], [100, "Radium, MN", -96.61311500000001, 48.228218, "Wikipedia (http://en.wikipedia.org/wiki/Radium,_Minnesota)", null]], "truncated": false, "filtered_table_rows_count": 128, "expanded_columns": [], "expandable_columns": [], "columns": ["rowid", "name", "longitude", "latitude", "description", "gx_media_links"], "primary_keys": [], "units": {}, "query": {"sql": "select rowid, name, longitude, latitude, description, gx_media_links from [ghost-towns/American-Ghost-Towns] order by rowid limit 101", "params": {}}, "facet_results": {}, "suggested_facets": [], "next": "100", "next_url": "http://192.241.230.179/dh/ghost-towns%2FAmerican-Ghost-Towns.json?_next=100", "private": false, "allow_execute_sql": true, "query_ms": 11.116504669189453}
+[
+    {
+        "rowid": "1",
+        "name": "Adamson, OK",
+        "longitude": "-95.546944",
+        "latitude": "34.923889",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Adamson,_Oklahoma)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "2",
+        "name": "Alluwe, OK",
+        "longitude": "-95.487222",
+        "latitude": "36.610278",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Alluwe,_Oklahoma)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "3",
+        "name": "Amboy, CA ",
+        "longitude": "-115.745302",
+        "latitude": "34.557167",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Amboy,_California)\n\nWikipedia Commons / Alienburrito (http://en.wikipedia.org/wiki/User:Alienburrito)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/AmboySchool.jpg/800px-AmboySchool.jpg"
+    },
+    {
+        "rowid": "4",
+        "name": "Animas Forks, CO",
+        "longitude": "-107.56871000000001",
+        "latitude": "37.930549",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Animas_Forks,_Colorado)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/en/5/5c/Animas18.jpg"
+    },
+    {
+        "rowid": "5",
+        "name": "Ardmore, SD",
+        "longitude": "-103.65519",
+        "latitude": "43.020321",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Ardmore,_South_Dakota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "6",
+        "name": "Arlington, Mo",
+        "longitude": "-91.971111",
+        "latitude": "37.920278",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Arlington,_Missouri)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "7",
+        "name": "Arcola, AL",
+        "longitude": "-87.783326",
+        "latitude": "32.567114000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Arcola,_Alabama)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "8",
+        "name": "Ashcroft, CO",
+        "longitude": "-106.79777800000001",
+        "latitude": "39.054444000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Ashcroft,_Colorado)\n\n\nWikipedia Commons / John Holm (http://www.flickr.com/people/29385617@N00)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ashcroft_CO_-_houses.jpg/800px-Ashcroft_CO_-_houses.jpg"
+    },
+    {
+        "rowid": "9",
+        "name": "Bannack, MT",
+        "longitude": "-112.99655200000001",
+        "latitude": "45.161386",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Bannack,_MT)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bannack.jpg/800px-Bannack.jpg"
+    },
+    {
+        "rowid": "10",
+        "name": "Batsto Village, NJ",
+        "longitude": "-74.64853199999999",
+        "latitude": "39.642979",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Batsto_Village,_New_Jersey)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "11",
+        "name": "Bellefonte, AL",
+        "longitude": "-85.94420500000001",
+        "latitude": "34.711844",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Bellefonte,_Alabama)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "12",
+        "name": "Benjaminville, IL",
+        "longitude": "-88.806111",
+        "latitude": "40.4765",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Benjaminville,_Illinois)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "13",
+        "name": "Berlin, NV",
+        "longitude": "-117.607222",
+        "latitude": "38.882222",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Berlin,_Nevada)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/8/87/Berlin_Ghost_Town.jpg"
+    },
+    {
+        "rowid": "14",
+        "name": "Bodie, CA",
+        "longitude": "-119.004601",
+        "latitude": "38.214149",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Bodie,_California)\n\nWikipedia Commons/ Public Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bodie_ghost_town_edit1.jpg/800px-Bodie_ghost_town_edit1.jpg"
+    },
+    {
+        "rowid": "15",
+        "name": "Bisbee, AZ",
+        "longitude": "-109.91413600000001",
+        "latitude": "31.44255",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Bisbee,_AZ)\n\nWikipedia Commons/Public Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bisbee_1916.jpg/799px-Bisbee_1916.jpg"
+    },
+    {
+        "rowid": "16",
+        "name": "Black Jack, KS",
+        "longitude": "-95.129542",
+        "latitude": "38.767936999999996",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Black_Jack#Town_of_Black_Jack)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "17",
+        "name": "Blue Heron, KY",
+        "longitude": "-84.547919",
+        "latitude": "36.670402",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Blue_Heron,_Kentucky)\n\n\n\n\nWikipedia Commons / Brian Stansberry (http://commons.wikimedia.org/wiki/User:Bms4880)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blue-heron-tipple-ky1.jpg/800px-Blue-heron-tipple-ky1.jpg"
+    },
+    {
+        "rowid": "18",
+        "name": "Brewster, FL",
+        "longitude": "-81.977663",
+        "latitude": "27.754513",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Brewster,_Florida)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "19",
+        "name": "Brinkman, OK",
+        "longitude": "-99.515118",
+        "latitude": "35.008114",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Brinkman,_Oklahoma)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "20",
+        "name": "Brunswick Town, NC",
+        "longitude": "-77.94658199999999",
+        "latitude": "34.039823",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Brunswick_Town,_North_Carolina)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "21",
+        "name": "Burke, ID",
+        "longitude": "-115.81765700000001",
+        "latitude": "47.520708",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Burke,_Idaho)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BurkeIdaho1890.JPG/800px-BurkeIdaho1890.JPG"
+    },
+    {
+        "rowid": "22",
+        "name": "Bushong, KS",
+        "longitude": "-96.257778",
+        "latitude": "38.642943",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Bushong,_Kansas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "23",
+        "name": "Byrnesville, PA",
+        "longitude": "-76.339196",
+        "latitude": "40.795982",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Byrnesville,_Pennsylvania)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "24",
+        "name": "Cades Cove, TN",
+        "longitude": "-83.817616",
+        "latitude": "35.607627",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Cades_Cove)\n\n\n\nCheck out the entire cleared area for other remains of Cades Cove.\n\n\n\nWikipedia Commons / Billy Hathorn (http://commons.wikimedia.org/wiki/User:Billy_Hathorn)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Methodist_Church_at_Cades_Cove_IMG_4969.JPG/800px-Methodist_Church_at_Cades_Cove_IMG_4969.JPG"
+    },
+    {
+        "rowid": "25",
+        "name": "Cahaba, AL",
+        "longitude": "-87.099615",
+        "latitude": "32.318867",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Cahaba,_Alabama)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "26",
+        "name": "Caribou, CO",
+        "longitude": "-105.577251",
+        "latitude": "39.979578000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Caribou,_Colorado)\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/en/f/f4/CaribouCO-2005.jpg"
+    },
+    {
+        "rowid": "27",
+        "name": "Cataloochee, NC",
+        "longitude": "-83.080051",
+        "latitude": "35.64047",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Cataloochee_(Great_Smoky_Mountains)ξ",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "28",
+        "name": "Centralia. PA",
+        "longitude": "-76.341667",
+        "latitude": "40.803333",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Centralia,_Pennsylvania)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "29",
+        "name": "Champoeg, OR",
+        "longitude": "-122.891908",
+        "latitude": "45.24872",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Champoeg,_Oregon)\n\nWikipedia Commons / M.O. Stevens (http://commons.wikimedia.org/wiki/User:Aboutmovies)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Champoeg_State_Park_museum.JPG/800px-Champoeg_State_Park_museum.JPG"
+    },
+    {
+        "rowid": "30",
+        "name": "Charbonneau, ND",
+        "longitude": "-103.76329399999999",
+        "latitude": "47.852515000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Charbonneau,_North_Dakota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "31",
+        "name": "Claiborne, AL",
+        "longitude": "-87.51284100000001",
+        "latitude": "31.544766",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Claiborne,_Alabama)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "32",
+        "name": "Clairemont, TX",
+        "longitude": "-100.753233",
+        "latitude": "33.167494",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Clairemont,_Texas)\n\n\nZoom in on the road to Street View to see this jail.\n\n\nWikipedia Commons / CletusDitto (http://commons.wikimedia.org/w/index.php?title=User:CletusDitto&action=edit&redlink=1)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Clairemont_Texas_Abandoned_Jail.jpg/800px-Clairemont_Texas_Abandoned_Jail.jpg"
+    },
+    {
+        "rowid": "33",
+        "name": "Council, AK",
+        "longitude": "-163.676389",
+        "latitude": "64.895",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Council,_Alaska)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "34",
+        "name": "Creelsboro, KY",
+        "longitude": "-85.19779399999999",
+        "latitude": "36.885102",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Creelsboro,_Kentucky)ξ\n\n\n\nWikipedia Commons / Public Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/en/thumb/a/af/Creelsboro.jpg/800px-Creelsboro.jpg"
+    },
+    {
+        "rowid": "35",
+        "name": "Dale, MN",
+        "longitude": "-96.219833",
+        "latitude": "46.905282",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Dale,_Minnesota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "36",
+        "name": "Dawson, NM",
+        "longitude": "-104.77498100000001",
+        "latitude": "36.664443",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Dawson,_New_Mexico)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/3/37/Dawson%2C_NM%2C_%281916%29_Main_Street%2C.jpg"
+    },
+    {
+        "rowid": "37",
+        "name": "Devonia, TN (Moore's Camp)",
+        "longitude": "-84.38555600000001",
+        "latitude": "36.148056",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Devonia,_Tennessee)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "38",
+        "name": "Donnan, IA",
+        "longitude": "-91.878056",
+        "latitude": "42.896111",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Donnan,_Iowa)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "39",
+        "name": "Dorchester, SC",
+        "longitude": "-80.169722",
+        "latitude": "32.948056",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Dorchester,_South_Carolina)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "40",
+        "name": "Drawbridge, CA",
+        "longitude": "-121.974002",
+        "latitude": "37.465751000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Drawbridge,_California)\n\nWikipedia Commons / William Ward (http://flickr.com/photos/23501684@N00)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Crossing_the_Bay_6.jpg/800px-Crossing_the_Bay_6.jpg"
+    },
+    {
+        "rowid": "41",
+        "name": "Dyersville, CO",
+        "longitude": "-105.983903",
+        "latitude": "39.420365000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Dyersville,_Colorado)\n\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/6/67/Dyerville1.jpg"
+    },
+    {
+        "rowid": "42",
+        "name": "Eagle Mountain, CA",
+        "longitude": "-115.48166699999999",
+        "latitude": "33.854444",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Eagle_Mountain,_California)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "43",
+        "name": "Eckley Miners' Village, PA",
+        "longitude": "-75.862778",
+        "latitude": "40.993333",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Eckley_Miners%27_Village)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "44",
+        "name": "Elko Tract, VA",
+        "longitude": "-77.237964",
+        "latitude": "37.487016",
+        "description": "Wikiipedia (http://en.wikipedia.org/wiki/Elko_Tract)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "45",
+        "name": "Elkport, IA",
+        "longitude": "-91.27555600000001",
+        "latitude": "42.741111",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Elkport,_Iowa)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "46",
+        "name": "Estacado, TX",
+        "longitude": "-101.562037",
+        "latitude": "33.750677",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Estacado,_Texas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "47",
+        "name": "Eureka, CO",
+        "longitude": "-107.565148",
+        "latitude": "37.880066",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Eureka,_Colorado)\n\n\nWikipedia Commons / Plazak (http://en.wikipedia.org/wiki/User:Plazak)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/3/37/EurekaCO.jpg"
+    },
+    {
+        "rowid": "48",
+        "name": "Fallis, OK",
+        "longitude": "-97.121667",
+        "latitude": "35.749444",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Fallis,_Oklahoma)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "49",
+        "name": "Fayette, MI",
+        "longitude": "-86.668696",
+        "latitude": "45.718256",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Fayette_Historic_State_Park)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "50",
+        "name": "Feltville, NJ",
+        "longitude": "-74.386944",
+        "latitude": "40.681389",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Feltville_Historic_District)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "51",
+        "name": "Flamingo, FL",
+        "longitude": "-80.92676800000001",
+        "latitude": "25.139632000000002",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Flamingo,_Florida)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "52",
+        "name": "French Azilum, PA",
+        "longitude": "-76.318",
+        "latitude": "41.736000000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/French_Azilum)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "53",
+        "name": "Fricks Locks, PA",
+        "longitude": "-75.596591",
+        "latitude": "40.223075",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Frick%27s_Lock,_Pennsylvania)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "54",
+        "name": "Garlock, CA",
+        "longitude": "-117.78851200000001",
+        "latitude": "35.401618",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Garlock,_California)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "55",
+        "name": "Griggsville Landing, IL",
+        "longitude": "-90.6475",
+        "latitude": "39.696944",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Griggsville_Landing,_Illinois)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "56",
+        "name": "Gold Point, NV",
+        "longitude": "-117.36528",
+        "latitude": "37.353819",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Gold_Point,_Nevada)\n\n\nWikipedia Commons / Finetooth (http://commons.wikimedia.org/wiki/User:Finetooth)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gold_point_street.jpg/800px-Gold_point_street.jpg"
+    },
+    {
+        "rowid": "57",
+        "name": "Greenhorn, OR",
+        "longitude": "-118.49666699999999",
+        "latitude": "44.708611",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Greenhorn,_Oregon)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Greenhorn_7.JPG/800px-Greenhorn_7.JPG"
+    },
+    {
+        "rowid": "58",
+        "name": "Grafton, UT",
+        "longitude": "-113.08156699999999",
+        "latitude": "37.16752",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Grafton,_Utah)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grafton_UT_-_schoolhouse.JPG/800px-Grafton_UT_-_schoolhouse.JPG"
+    },
+    {
+        "rowid": "59",
+        "name": "Hamburg, MO",
+        "longitude": "-90.731667",
+        "latitude": "38.669722",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Hamburg,_Missouri)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "60",
+        "name": "Hampton Springs, FL",
+        "longitude": "-83.66250500000001",
+        "latitude": "30.081468",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Hampton_Springs,_Florida)\n\n\n\nWikipedia Commons / Ebyabe (http://commons.wikimedia.org/wiki/User:Ebyabe)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hampton_Springs_FL_hotel03.jpg/800px-Hampton_Springs_FL_hotel03.jpg"
+    },
+    {
+        "rowid": "61",
+        "name": "Hindostan Falls",
+        "longitude": "-86.85030400000001",
+        "latitude": "38.624099",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Hindostan_Falls,_Indiana)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "62",
+        "name": "Holmesville, MS",
+        "longitude": "-90.308611",
+        "latitude": "31.203611",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Holmesville,_Mississippi)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "63",
+        "name": "Horse Heaven, OR",
+        "longitude": "-120.507222",
+        "latitude": "44.715556",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Horse_Heaven,_Oregon)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "64",
+        "name": "Huot, MN",
+        "longitude": "-96.423333",
+        "latitude": "47.865278",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Huot,_Minnesota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "65",
+        "name": "Independence, CO",
+        "longitude": "-106.605278",
+        "latitude": "39.106389",
+        "description": "Wikipedia\n\nWikipedia Commons / Jeffrey Beall (http://commons.wikimedia.org/wiki/User:Denverjeffrey)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Independence%2C_Colorado.JPG/800px-Independence%2C_Colorado.JPG"
+    },
+    {
+        "rowid": "66",
+        "name": "Indian Key, FL",
+        "longitude": "-80.677285",
+        "latitude": "24.878845000000002",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Indian_Key,_Florida)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "67",
+        "name": "Jamestown, VA",
+        "longitude": "-76.77429000000001",
+        "latitude": "37.207688",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Jamestown,_Virginia)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "68",
+        "name": "Jerome, AZ",
+        "longitude": "-112.113772",
+        "latitude": "34.748911",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Jerome,_AZ)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Connor_hotel%2C_1899.jpg"
+    },
+    {
+        "rowid": "69",
+        "name": "Kalapana, HI",
+        "longitude": "-154.985322",
+        "latitude": "19.350607",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Kalapana,_Hawaii)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "70",
+        "name": "Kapoho, HI",
+        "longitude": "-154.846033",
+        "latitude": "19.502733",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Kapoho,_Hawaii)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "71",
+        "name": "Kaskaskia, IL",
+        "longitude": "-89.916467",
+        "latitude": "37.921395000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Kaskaskia,_Illinois)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "72",
+        "name": "Kelso, CA",
+        "longitude": "-115.64945",
+        "latitude": "35.014726",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Kelso,_California)\n\nWikipedia Commons / Pierre Camateros (http://commons.wikimedia.org/wiki/User:PieCam)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kelso_Post_Office.jpg/800px-Kelso_Post_Office.jpg"
+    },
+    {
+        "rowid": "73",
+        "name": "Kennecott, AK",
+        "longitude": "-142.888611",
+        "latitude": "61.486111",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Kennicott,_Alaska)\n\n\n\n\nWikipedia Commons / Sewtex (http://en.wikipedia.org/wiki/User:Sewtex)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kennicott8.jpg/250px-Kennicott8.jpg"
+    },
+    {
+        "rowid": "74",
+        "name": "Klondyke, AZ",
+        "longitude": "-110.332222",
+        "latitude": "32.835278",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Klondyke,_Arizona)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/en/8/87/Klondyke_Arizona_General_Store_1910.jpg"
+    },
+    {
+        "rowid": "75",
+        "name": "Laquin, PA",
+        "longitude": "-76.65083299999999",
+        "latitude": "41.632222",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Laquin,_Pennsylvania)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "76",
+        "name": "Leadfield, CA",
+        "longitude": "-117.060608",
+        "latitude": "36.848366999999996",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Leadfield,_California)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Leadfield_Building_1.jpg"
+    },
+    {
+        "rowid": "77",
+        "name": "Llano Del Rio",
+        "longitude": "-117.827083",
+        "latitude": "34.506471999999995",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Llano_Del_Rio)\n\nWikipedia Commons / Binksternet (http://commons.wikimedia.org/wiki/User:Binksternet)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/LlanoDelRio1.jpg/800px-LlanoDelRio1.jpg"
+    },
+    {
+        "rowid": "78",
+        "name": "Lobo, TX",
+        "longitude": "-104.753056",
+        "latitude": "30.814166999999998",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Lobo,_Texas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "79",
+        "name": "Long Point, MA",
+        "longitude": "-70.16879",
+        "latitude": "42.032954",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Long_Point_(Cape_Cod)ξ",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "80",
+        "name": "Los Ojuelos, TX",
+        "longitude": "-98.99638900000001",
+        "latitude": "27.403056",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Los_Ojuelos,_Texas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "81",
+        "name": "Love Canal, NY",
+        "longitude": "-78.94895600000001",
+        "latitude": "43.080518",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Love_Canal)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "82",
+        "name": "Marysville, MT",
+        "longitude": "-112.300278",
+        "latitude": "46.750556",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Marysville,_Montana)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CityMeatMarketMarysvilleMontana-Haynes1889.jpg/786px-CityMeatMarketMarysvilleMontana-Haynes1889.jpg"
+    },
+    {
+        "rowid": "83",
+        "name": "Medicine Mound, TX",
+        "longitude": "-99.59439",
+        "latitude": "34.187391",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Medicine_Mound,_Texas)\n\nWikipedia Commons / M Lenhardt (http://www.flickr.com/people/30514188@N05)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Medicine_Mound_gas_station.jpg/800px-Medicine_Mound_gas_station.jpg"
+    },
+    {
+        "rowid": "84",
+        "name": "Mesquite, TX",
+        "longitude": "-101.630278",
+        "latitude": "32.870278000000006",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Mesquite,_Texas_(Borden_County)ξ\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mesquite_School_Borden_County_Texas_2010.jpg/800px-Mesquite_School_Borden_County_Texas_2010.jpg"
+    },
+    {
+        "rowid": "85",
+        "name": "Midland, CA",
+        "longitude": "-114.802222",
+        "latitude": "33.861111",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Midland,_California)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "86",
+        "name": "Miner's Delight, WY",
+        "longitude": "-108.68154799999999",
+        "latitude": "42.533109",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Miner%27s_Delight,_Wyoming)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/4/46/Miners_delight_cabin.jpg"
+    },
+    {
+        "rowid": "87",
+        "name": "Nevadaville, CO",
+        "longitude": "-105.53183999999999",
+        "latitude": "39.793925",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Nevadaville,_Colorado)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "88",
+        "name": "New Idria, CA",
+        "longitude": "-120.672905",
+        "latitude": "36.415662",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/New_Idria,_California)\n\n\nWikipedia Commons / Jef Poskanzer (http://flickr.com/photos/37996593020@N01)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Idria_grounds.jpg/800px-New_Idria_grounds.jpg"
+    },
+    {
+        "rowid": "89",
+        "name": "Nonesuch Mine, MI",
+        "longitude": "-89.619722",
+        "latitude": "46.755278000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Nonesuch_Mine)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "90",
+        "name": "Okaton, SD",
+        "longitude": "-100.891805",
+        "latitude": "43.886101000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Okaton,_SD)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "91",
+        "name": "Palmetto, NV",
+        "longitude": "-117.695365",
+        "latitude": "37.444545",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Palmetto,_Nevada)\n\n\nCheck out the ruins in Street View by zooming in on the road.\n\n\nWikipedia Commons / Mark Holloway (http://www.flickr.com/people/27000124@N05)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Palmetto%2C_Nevada_ghost_town.jpg/798px-Palmetto%2C_Nevada_ghost_town.jpg"
+    },
+    {
+        "rowid": "92",
+        "name": "Panamint City",
+        "longitude": "-117.09501000000002",
+        "latitude": "36.117931",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Panamint_City,_California)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "93",
+        "name": "Paradise, KY",
+        "longitude": "-86.983611",
+        "latitude": "37.268056",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Paradise,_Kentucky)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "94",
+        "name": "Perky, FL",
+        "longitude": "-81.572637",
+        "latitude": "24.650024",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Perky,_Florida)\n\n\n\nWikipedia Commons / Marc Averette (http://en.wikipedia.org/wiki/User:Averette)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sugarloafkeybattower.jpg/450px-Sugarloafkeybattower.jpg"
+    },
+    {
+        "rowid": "95",
+        "name": "Picher, OK",
+        "longitude": "-94.832778",
+        "latitude": "36.982778",
+        "description": "wikipedia (http://en.wikipedia.org/wiki/Picher,_Oklahoma)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "96",
+        "name": "Piedmont, WY",
+        "longitude": "-110.62586499999999",
+        "latitude": "41.217273999999996",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Piedmont,_Wyoming)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "97",
+        "name": "Pithole, PA",
+        "longitude": "-79.580262",
+        "latitude": "41.522748",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Pithole,_Pennsylvania)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "98",
+        "name": "Port Wakefield, AK",
+        "longitude": "-153.054743",
+        "latitude": "58.049466",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Port_Wakefield,_Alaska)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "99",
+        "name": "Portsmouth, NC",
+        "longitude": "-76.063889",
+        "latitude": "35.069722",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Portsmouth,_North_Carolina)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "100",
+        "name": "Radium, MN",
+        "longitude": "-96.61311500000001",
+        "latitude": "48.228218",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Radium,_Minnesota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "101",
+        "name": "Ravanna, KS",
+        "longitude": "-100.37929100000001",
+        "latitude": "38.159186",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Ravanna,_Kansas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "102",
+        "name": "Rice, CA",
+        "longitude": "-114.850278",
+        "latitude": "34.083026000000004",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Rice,_California)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "103",
+        "name": "Rhyolite, NV",
+        "longitude": "-116.82941799999999",
+        "latitude": "36.901364",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Rhyolite,_NV)\n\nWikipedia Commons/Tahoenathan (http://commons.wikimedia.org/wiki/User:Tahoenathan)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhyolite2.jpg/800px-Rhyolite2.jpg"
+    },
+    {
+        "rowid": "104",
+        "name": "Rocky Bar, ID",
+        "longitude": "-115.28868200000001",
+        "latitude": "43.689381",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Rocky_Bar,_Idaho)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "105",
+        "name": "Rocky Springs, MS",
+        "longitude": "-90.808697",
+        "latitude": "32.08898",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Rocky_Springs,_Mississippi)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "106",
+        "name": "Shakespeare, NM",
+        "longitude": "-108.73833300000001",
+        "latitude": "32.325556",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Shakespeare,_New_Mexico)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Buildings_in_Shakespeare%2C_New_Mexico.jpg/800px-Buildings_in_Shakespeare%2C_New_Mexico.jpg"
+    },
+    {
+        "rowid": "107",
+        "name": "Shasta, CA",
+        "longitude": "-122.49146499999999",
+        "latitude": "40.598374",
+        "description": "Background info from Shasta State Park (http://www.parks.ca.gov/?page_id=456)\n\n\n \nZoom all the way in on the road to view the ruins in Street View.",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "108",
+        "name": "Silver City, ID",
+        "longitude": "-116.733056",
+        "latitude": "43.016944",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Silver_City,_Idaho)\n\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/d/dd/SilverCityID.jpg"
+    },
+    {
+        "rowid": "109",
+        "name": "South Pass City, WY",
+        "longitude": "-108.799722",
+        "latitude": "42.468333",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/South_Pass_City,_Wyoming)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e2/SouthPassCityWY1870.PNG/800px-SouthPassCityWY1870.PNG"
+    },
+    {
+        "rowid": "110",
+        "name": "St. Elmo, CO",
+        "longitude": "-106.345",
+        "latitude": "38.704722",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/St._Elmo,_Colorado)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Co_goosttown_st_elmo1.jpg/800px-Co_goosttown_st_elmo1.jpg"
+    },
+    {
+        "rowid": "111",
+        "name": "St. Thomas, NV",
+        "longitude": "-114.370015",
+        "latitude": "36.467232",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/St._Thomas,_Nevada)\n\n\nWikipedia Commons / Jkotto (http://commons.wikimedia.org/w/index.php?title=User:Jkotto&action=edit&redlink=1)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/St._Thomas%2C_NV_Building_Foundation.JPG/800px-St._Thomas%2C_NV_Building_Foundation.JPG"
+    },
+    {
+        "rowid": "112",
+        "name": "Stiles, TX",
+        "longitude": "-101.56611099999999",
+        "latitude": "31.406944",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Stiles,_Texas)\n\n\nWikipedia Commons / BlueSteel75 (http://en.wikipedia.org/wiki/User:BlueSteel75)",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/2/29/Stiles_Courthouse2.jpg"
+    },
+    {
+        "rowid": "113",
+        "name": "Stotesbury, WV",
+        "longitude": "-81.28871099999999",
+        "latitude": "37.68166",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Stotesbury,_West_Virginia)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "114",
+        "name": "Superconducting Super Collider",
+        "longitude": "-96.94454",
+        "latitude": "32.36463",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Superconducting_Super_Collider)\n\nCracked.com: The 6 most Mind Blowing Modern Ghost Towns (http://www.cracked.com/article_19617_the-6-most-mind-blowing-modern-ghost-towns_p2.html)\n\n\n\nWikipedia Commons / Public Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ssc_mdl.JPG/800px-Ssc_mdl.JPG"
+    },
+    {
+        "rowid": "115",
+        "name": "Tahawus, NY",
+        "longitude": "-74.05111099999999",
+        "latitude": "44.050556",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Tahawus,_New_York)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "116",
+        "name": "Temple, ND",
+        "longitude": "-103.056017",
+        "latitude": "48.388975",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Temple,North_Dakota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "117",
+        "name": "Terlingua, TX",
+        "longitude": "-103.615959",
+        "latitude": "29.321702000000002",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Terlingua,_Texas)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "118",
+        "name": "Thurmond, WV",
+        "longitude": "-81.081772",
+        "latitude": "37.961034000000005",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Thurmond,_West_Virginia)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "119",
+        "name": "Times Beach, MO",
+        "longitude": "-90.602355",
+        "latitude": "38.5087",
+        "description": "Eureka, MO 63025 (http://en.wikipedia.org/wiki/Times_Beach,_Missouri)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "120",
+        "name": "Tremont, IN",
+        "longitude": "-87.043611",
+        "latitude": "41.648610999999995",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Tremont,_Indiana)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "121",
+        "name": "Tyrone, NM",
+        "longitude": "-108.32541699999999",
+        "latitude": "32.641806",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Tyrone,_New_Mexico)\n\nPublic Domain",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tyrone_New_Mexico_1940.jpg/800px-Tyrone_New_Mexico_1940.jpg"
+    },
+    {
+        "rowid": "122",
+        "name": "Virginius Island, WV",
+        "longitude": "-77.735159",
+        "latitude": "39.321044",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Virginius_Island)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "123",
+        "name": "Vishnu Springs, IL",
+        "longitude": "-90.893746",
+        "latitude": "40.431987",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Vishnu_Springs,_Illinois)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "124",
+        "name": "Vulture Mine",
+        "longitude": "-112.835948",
+        "latitude": "33.815427",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Vulture_Mine,_Arizona)\n\n\nWikipedia Commons / Andwhatsnext (http://commons.wikimedia.org/wiki/User:Andwhatsnext), aka Nancy Price",
+        "gx_media_links": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vulture-gold-mine-maricopa.JPG/800px-Vulture-gold-mine-maricopa.JPG"
+    },
+    {
+        "rowid": "125",
+        "name": "Wheelock, ND",
+        "longitude": "-103.2525",
+        "latitude": "48.296389000000005",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Wheelock,_North_Dakota)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "126",
+        "name": "Whitewash Village, MA",
+        "longitude": "-69.993998",
+        "latitude": "41.55927",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Whitewash_Village,_Massachusetts)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "127",
+        "name": "Wonderland, OH",
+        "longitude": "-82.87083299999999",
+        "latitude": "40.002778",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Wonderland,_Ohio)",
+        "gx_media_links": ""
+    },
+    {
+        "rowid": "128",
+        "name": "Gunsmoke Movie Set Ruins, Johnson Canyon, Utah",
+        "longitude": "-112.37958799999998",
+        "latitude": "37.115358",
+        "description": "Wikipedia (http://en.wikipedia.org/wiki/Gunsmoke)\n\nGunsmoke is an American radio and television Western drama series created by director Norman MacDonnell and writer John Meston. The stories take place in and around Dodge City, Kansas, during the settlement of the American West. The central character is lawman Marshal Matt Dillon, played by William Conrad on radio andJames Arness on television. When aired in the UK, the television series was initially titled Gun Law.,[1] later reverting to Gunsmoke[2]\n\n \n\nGoogle Map / Panoramio / www.galenbeck.de (http://www.panoramio.com/user/3240777?with_photo_id=63450731)",
+        "gx_media_links": "http://static.panoramio.com/photos/large/63450731.jpg"
+    }
+]

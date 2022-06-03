@@ -14,11 +14,11 @@ function readTextFile(file, callback) {
 }
 
 console.log("-------------------------------");
-readTextFile("https://raw.githubusercontent.com/ArshSiddiqui/limbousine/main/American-Ghost-Towns.geojson", function(text) {
+readTextFile("https://raw.githubusercontent.com/ArshSiddiqui/limbousine/main/GhostTowns.json", function(text) {
 	console.log("inside");
 	var data = JSON.parse(text);
 	console.log(text);
-	console.log(text.features);
+	//console.log(text.features);
 })
 
 navigator.geolocation.getCurrentPosition(function(position) {
