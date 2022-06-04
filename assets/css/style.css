@@ -103,10 +103,11 @@ select {
 #nearestTown{
 	font-family: "Georgia", Times, Serif;
 	font-size: 1rem;
-	margin-top: 2rem;
+	margin-top: 1rem;
 }
 
 #map { 
 	width: 80rem; 
-	height: 40rem; 
+	height: 40rem;
+	margin-top: 1rem;
 }

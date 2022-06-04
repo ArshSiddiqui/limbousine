@@ -84,6 +84,9 @@ function determineDistances(names, lats, longs) {
 			center: GOLDEN_GATE_BRIDGE,
 			zoom: 12
 		});
+		
+		let lnk = "https://ride.lyft.com/ridetype?origin=" + lat + "%2C" + lng +"&destination=" + lats[minSpot] + "%2C" + longs[minSpot] + "&ride_type=&offerProductId=standard";
+		console.log(lnk);
 
 	})
 	
