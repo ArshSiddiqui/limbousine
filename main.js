@@ -87,6 +87,10 @@ function determineDistances(names, lats, longs) {
 		
 		let lnk = "https://ride.lyft.com/ridetype?origin=" + lat + "%2C" + lng +"&destination=" + lats[minSpot] + "%2C" + longs[minSpot] + "&ride_type=&offerProductId=standard";
 		console.log(lnk);
+		
+		document.getElementById("lyft").onclick = function() {
+			location.href = lnk;
+		};
 
 	})
 	

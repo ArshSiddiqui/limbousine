@@ -111,3 +111,20 @@ select {
 	height: 40rem;
 	margin-top: 1rem;
 }
+
+#lyft {
+	border-color: #000000;
+	border-style: solid;
+	background-color: #FFFFFF;
+	color: #000000;
+	cursor: pointer;
+	font-family: 'Karla', sans-serif;
+	font-size: 1rem;
+	width: 20rem;
+	margin-top: 1rem;
+}
+
+#lyft:hover {
+	background-color: #FF00BF;
+	color: #FFFFFF;
+}
